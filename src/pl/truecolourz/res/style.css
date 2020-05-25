@@ -1,0 +1,24 @@
+.controlButtons{
+ -fx-background-radius: 6em;
+ -fx-min-width: 70px;
+ -fx-max-width: 70px;
+ -fx-min-height: 70px;
+ -fx-max-height: 70px;
+ -fx-border-color: rgb(77,77,77);
+ -fx-border-radius: 30;
+ -fx-border-solid: 30;
+ -fx-border-width: 10;
+ -fx-background-color: rgb(200,55,55);
+}
+.settButtons{
+ -fx-background-radius: 3em;
+ -fx-min-width: 60px;
+ -fx-max-width: 60px;
+ -fx-min-height: 40px;
+ -fx-max-height: 40px;
+ -fx-border-color: rgb(77,77,77);
+ -fx-border-radius: 15;
+ -fx-border-solid: 20;
+ -fx-border-width: 8;
+ -fx-background-color: rgb(170,170,170);
+}
